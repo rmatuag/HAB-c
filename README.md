@@ -23,6 +23,9 @@ zmprov -f create_accounts.zmp
 zmprov -f create_hab.zmp
 ```
 
+Create Contacts with Folders
+----------------------------
+
 Alternatively, you can just run this command to create and contacts (and folders) into an address book to show the hierarchy.
 
 * `create_address.zmp` - zmmailbox command to add contacts and folders into an address book to show the hierarchy.
