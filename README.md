@@ -34,3 +34,15 @@ zmmailbox -z -m shared_user@dom.tld -f create_hab.zmp
 ```
 
 Mount this Shared Contacts folder (named as Corporate address book) when you create a new user.
+
+
+Add Images
+----------
+
+Add randomly created images to all the contacts in your Address Book!
+NOTE: All contacts will change!
+
+Change usename and password and URL in the `z_img.sh` file and run on your server.
+````
+z_img.sh
+```
