@@ -23,12 +23,11 @@ zmprov -f create_accounts.zmp
 zmprov -f create_hab.zmp
 ```
 
-Alternatively, you can also run this command to add contacts and folders into an address book to show the hierarchy.
-zmmailbox -z -m shared_user@domain.tld -f create_address.zmp
+Alternatively, you can just run this command to create and contacts (and folders) into an address book to show the hierarchy.
 
 * `create_address.zmp` - zmmailbox command to add contacts and folders into an address book to show the hierarchy.
 ```
 zmmailbox -z -m shared_user@dom.tld -f create_hab.zmp
 ```
 
-You can mount this Shared Contacts folder (named as Corporate address book) when you create a new user.
+Mount this Shared Contacts folder (named as Corporate address book) when you create a new user.
